@@ -1,4 +1,5 @@
 # ET0735 - Lab 1 (Introduction to Git and Github)
 
 
-![kobeni-dance](https://user-images.githubusercontent.com/130963401/232408913-dfb4937e-bfda-4cdb-b661-6aaa84d9c2d1.gif)
+
+![kobayashi-kobayashi-dragon-maid](https://user-images.githubusercontent.com/130963401/232409978-55c97663-b68e-4179-9371-4c38b7b1f2a9.gif)
