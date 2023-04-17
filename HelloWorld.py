@@ -1,1 +1,1 @@
-print("ET7035-DOAIOT")
+print("ET7035-DOAIOT", "I love fortnite")
